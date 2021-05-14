@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+What's up people!!!
+Genkidesuka???
 <!--
 **rithvikshetty/rithvikshetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
